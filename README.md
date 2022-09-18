@@ -1,3 +1,12 @@
+# React meetups
+
+[Deploy(Vercel)](http://react-meetups-beta.vercel.app/)
+
+Technologies used:
+
+- NextJS
+- MongoDB
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
